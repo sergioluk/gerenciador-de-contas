@@ -1,0 +1,24 @@
+.botao {
+    font-weight: 15px;
+    font-size: 15px;
+    display: flex;
+    color: white;
+    align-items: center;
+    justify-content: center;
+    height: 31px;
+    padding: 10px;
+    width: fit-content;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    border: none;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.verde {
+    background-color: #54AA45;
+}
+
+.vermelho {
+    background-color: #D15B47;
+}

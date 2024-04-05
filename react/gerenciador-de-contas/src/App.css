@@ -1,0 +1,12 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #E0E1E6;
+  height: 100vh;
+}
+
+.bc {
+  background-color: #fff;
+  padding: 10px;
+}

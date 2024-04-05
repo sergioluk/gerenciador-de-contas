@@ -1,0 +1,65 @@
+
+
+.titulo {
+    font-size: 18px;
+    font-weight: bold;
+    color: #478FB7;
+}
+
+.hr{
+    border-color: #478FB7;
+    margin: 10px 0;
+}
+
+
+.container_table {
+    min-width: 660px;
+    min-height: 442px;
+    background: white;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+
+.container_table table{
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.container_table th{
+    color: #478FB7;
+    background: #CDD8E3;
+    border:1px solid #9fb0c2;
+}
+
+.container_table table,
+.container_table td {
+    background: white;
+    border:1px solid #9fb0c2;
+}
+
+.nenhuma_conta {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.vencido {
+    color: #fa8c8c;
+    font-weight: bold;
+}
+
+.pago {
+    color: #2ea10b;
+    font-weight: bold;
+}
+
+.link a{
+    text-decoration: none;
+    color: #4797b7;
+}
+.link {
+    cursor: pointer;
+    color: #47b783;
+}
+
